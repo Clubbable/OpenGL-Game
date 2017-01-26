@@ -1,0 +1,77 @@
+﻿  RenderWorld.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  RenderGame.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+c:\users\martin\desktop\opengl game\windows\opengl game\render engine\rendergame.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\desktop\opengl game\windows\opengl game\render engine\rendergame.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\martin\desktop\opengl game\windows\opengl game\render engine\rendergame.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\martin\desktop\opengl game\windows\opengl game\render engine\rendergame.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\martin\desktop\opengl game\windows\opengl game\render engine\rendergame.cpp(143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameInitializer.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  Data.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+c:\users\martin\desktop\opengl game\windows\opengl game\game engine\data.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Collision.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+c:\users\martin\desktop\opengl game\windows\opengl game\game engine\collision.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  vec3f.cpp
+  texture.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  technique.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  skybox_technique.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  skybox.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  pipeline.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  mesh.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+c:\users\martin\desktop\opengl game\windows\opengl game\dependencies\mesh.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  math_3d.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  lighting_technique.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  imageloader.cpp
+  glut_backend.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  cubemap_texture.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  camera.cpp
+c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(22): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'Magick::Exception'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\users\martin\desktop\opengl game\include\imagemagick\magick++\exception.h(21): note: see declaration of 'Magick::Exception'
+  Generating Code...
+  OpenGL Game.vcxproj -> C:\Users\Martin\Desktop\OpenGL Game\Windows\OpenGL Game\Debug\OpenGL Game.exe
+  OpenGL Game.vcxproj -> C:\Users\Martin\Desktop\OpenGL Game\Windows\OpenGL Game\Debug\OpenGL Game.pdb (Full PDB)

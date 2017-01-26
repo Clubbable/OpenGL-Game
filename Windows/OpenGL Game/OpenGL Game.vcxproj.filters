@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Dependencies\camera.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\cubemap_texture.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\glut_backend.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imageloader.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\lighting_technique.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\math_3d.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\mesh.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\pipeline.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\skybox.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\skybox_technique.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\technique.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\texture.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\vec3f.cpp">
+      <Filter>Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Render Engine\RenderGame.cpp">
+      <Filter>Render Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Render Engine\RenderWorld.cpp">
+      <Filter>Render Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Engine\Collision.cpp">
+      <Filter>Game Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game Engine\Data.cpp">
+      <Filter>Game Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInitializer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Render Engine">
+      <UniqueIdentifier>{32628d57-6c6b-45bf-a94b-f8b92aa3417f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Engine">
+      <UniqueIdentifier>{c6974030-4221-4b0b-8c70-1b99b5d5f167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Storage">
+      <UniqueIdentifier>{3ece91b5-3c92-4b51-a36e-1e5429dc1744}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies">
+      <UniqueIdentifier>{d7baaac6-00ba-42f8-91a4-7a0a8d91866b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Storage\Models.h">
+      <Filter>Storage</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Engine\Collision.h">
+      <Filter>Game Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Game Engine\Data.h">
+      <Filter>Game Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Render Engine\RenderGame.h">
+      <Filter>Render Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Render Engine\RenderWorld.h">
+      <Filter>Render Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
